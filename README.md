@@ -5,7 +5,7 @@
 ### 💬 I am a: -->
 
 <!-- ANIMATED DESCRIPTION -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=600&lines=Hello+This+is+Marion+Kipruto+Software+Engineer;Love+Building+Tech+Solutions;Interested+in+Learning+New+Technologies+in+Tech;Full-stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=600&lines=Hello+This+is+Marion+Kipruto,+Software+Engineer;Love+Building+Tech+Solutions;Interested+in+Learning+New+Technologies+in+Tech;Full-stack+Developer)
 
 </div>
 
